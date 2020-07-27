@@ -5,18 +5,18 @@ Emotion based sentiment analysis using multiple machine learning algorithms.
 The application is made up of multiple parts but all co inhabit a single python class.
 
 * There are a total of 7 machine learning algorithms, they are used either individually or in conjunction with one another to sanity check results.
- * Random Forest
- * Support Vector Classification
- * Linear Regression (Multinominal Naive Bayes)
- * Logistic Regression
- * Multi Layer Perceptron Neural Network
+  * Random Forest
+  * Support Vector Classification
+  * Linear Regression (Multinominal Naive Bayes)
+  * Logistic Regression
+  * Multi Layer Perceptron Neural Network
 * The application currently checks for 6 emotions
- * Anger
- * Happpy
- * Sad
- * Fear
- * Surity
- * Neutral
+  * Anger
+  * Happpy
+  * Sad
+  * Fear
+  * Surity
+  * Neutral
 * The application can handle, audio data / text data and a blend of both.
 * The application is using the streamlit framework to create a web spplication.
 
