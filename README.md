@@ -42,3 +42,7 @@ in between step Two and step Three, once these steps have been completed, then r
 
 The above list of steps is of course an optimal use case, if there are any errors or issues whilst running the application, 
 one could install all requirements individually as if there is going to be an isues, this is primarily where it may occur.
+
+### Extrat
+To use this application as it is inteded, you will to apply for access to the IEMOCAP dataset from ( https://sail.usc.edu/iemocap/ )
+The reason is when you gain a liscence you are not permitted to share the dataset with anyone so individual liscences are required.
