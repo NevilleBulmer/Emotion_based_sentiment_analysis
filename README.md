@@ -4,7 +4,7 @@ Emotion based sentiment analysis using multiple machine learning algorithms.
 ### Exaplaantion of functionality
 The application is made up of multiple parts but all co inhabit a single python class.
 
-* There are a total of 7 machine learning algorithms, they are used either individually or in conjunction with one another to sanity check results.
+* There are a total of 5 machine learning algorithms, they are used either individually or in conjunction with one another to sanity check results.
   * Random Forest
   * Support Vector Classification
   * Linear Regression (Multinominal Naive Bayes)
