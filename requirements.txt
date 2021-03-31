@@ -70,7 +70,7 @@ lazy-object-proxy==1.4.3
 librosa==0.7.1
 link==1.2.19
 llvmlite==0.30.0
-lxml==4.4.1
+lxml==4.6.3
 Markdown==3.1.1
 MarkupSafe==1.1.1
 matplotlib==3.1.1
