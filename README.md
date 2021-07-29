@@ -22,7 +22,7 @@ The application is made up of multiple parts but all co inhabit a single python 
 
 ### Steps to re-produce
 
-* Step One: Instanll virtualenv on your machine if this is not already present using command ( pip3 install virtualenv ).
+* Step One: Install virtualenv on your machine if this is not already present using command ( pip3 install virtualenv ).
 
 * Step Two: Open a terminal and navigate into the working directory.
 
